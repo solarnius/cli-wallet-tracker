@@ -1,0 +1,15 @@
+{
+  "name": "cli-wallet-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "balance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "dotenv": "^16.4.5"
+  }
+}
